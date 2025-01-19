@@ -48,10 +48,9 @@ To Run the project
     In Backend - node index.js
 
 
-
-
-    ![Screenshot 2025-01-19 at 6 52 57 PM](https://github.com/user-attachments/assets/91bfb020-9527-4ce5-a281-26482ce13830)
-    ![Screenshot 2025-01-19 at 6 53 07 PM](https://github.com/user-attachments/assets/8e5920e5-0df3-4d4f-84c1-002f7d915578)
+![Screenshot 2025-01-19 at 6 52 57 PM](https://github.com/user-attachments/assets/91bfb020-9527-4ce5-a281-26482ce13830)
+    
+![Screenshot 2025-01-19 at 6 53 07 PM](https://github.com/user-attachments/assets/8e5920e5-0df3-4d4f-84c1-002f7d915578)
 
 
 
